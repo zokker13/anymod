@@ -1,6 +1,6 @@
 {
   "name": "anymod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modulo operations based on mathematical approach",
   "main": "index.js",
   "scripts": {
