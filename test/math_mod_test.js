@@ -2,7 +2,7 @@ const should = require('should');
 
 const mod = require('..');
 
-describe('Rounding#math_mod()', () => {
+describe('mod()', () => {
 
   it('should modulo positive numbers and positive operands successfully', () => {
 

@@ -1,4 +1,4 @@
-# Anymod
+# Anymod [![Build Status](https://travis-ci.org/zokker13/anymod.svg?branch=master)](https://travis-ci.org/zokker13/anymod)
 A micropackage to calculate modulo operations based on the mathematical approach.
 
 ## Installation
