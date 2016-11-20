@@ -1,0 +1,8 @@
+# Files
+yarn.lock
+.npmignore
+.gitignore
+
+# Folders
+node_modules/
+test/

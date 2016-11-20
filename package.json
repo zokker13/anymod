@@ -1,0 +1,19 @@
+{
+  "name": "anymod",
+  "version": "1.0.0",
+  "description": "Modulo operations based on mathematical approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/math_mod_test.js"
+  },
+  "author": "Philipp Tusch <zokker13@posteo.de>",
+  "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com:zokker13/anymod.git"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
+  }
+}
